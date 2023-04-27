@@ -1,0 +1,16 @@
+{
+  "resourceName": "s3filrollstorage1145",
+  "bucketName": "filroll-storage-1145",
+  "policyUUID": "167894ed",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "DELETE",
+    "CREATE_AND_UPDATE",
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}

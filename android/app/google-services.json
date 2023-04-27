@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "95265299178",
+    "project_id": "filroll-958c9",
+    "storage_bucket": "filroll-958c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95265299178:android:5163ae612f1c9c2427d593",
+        "android_client_info": {
+          "package_name": "com.filroll_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95265299178-ft40mjn4hkl2hlevce60gosspr8k7lh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.filroll_app",
+            "certificate_hash": "6e2d4bc674da21a170e21f4e794deb9ea5f19169"
+          }
+        },
+        {
+          "client_id": "95265299178-uev9mrjttsao1n5kkd9umietlbjj80f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_RmSIGBFcti-4wIZATlLCw-NUkGeWu6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95265299178-on9tqfr2pooa825doiovjkgsa7s7skhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

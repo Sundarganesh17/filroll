@@ -1,0 +1,23 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-filroll-staging-84815-authRole",
+      "UnauthRoleArn": "arn:aws:iam::104003936294:role/amplify-filroll-staging-84815-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::104003936294:role/amplify-filroll-staging-84815-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-filroll-staging-84815-deployment",
+      "UnauthRoleName": "amplify-filroll-staging-84815-unauthRole",
+      "StackName": "amplify-filroll-staging-84815",
+      "StackId": "arn:aws:cloudformation:ap-south-1:104003936294:stack/amplify-filroll-staging-84815/5cdab460-8b43-11ed-9917-02effb954238",
+      "AmplifyAppId": "d3c7qrgy3gspgk"
+    },
+    "categories": {
+      "auth": {
+        "Filroll": {}
+      },
+      "storage": {
+        "s3filrollstorage1145": {}
+      }
+    }
+  }
+}
